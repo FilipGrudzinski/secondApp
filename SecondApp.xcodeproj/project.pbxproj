@@ -14,6 +14,7 @@
 		14BB1C5320643279002F9566 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14BB1C5120643279002F9566 /* LaunchScreen.storyboard */; };
 		14BB1C5E20643279002F9566 /* SecondAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14BB1C5D20643279002F9566 /* SecondAppTests.swift */; };
 		14BB1C6920643279002F9566 /* SecondAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14BB1C6820643279002F9566 /* SecondAppUITests.swift */; };
+		14BB1C7720645B61002F9566 /* poop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 14BB1C7620645B61002F9566 /* poop.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		14BB1C6420643279002F9566 /* SecondAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		14BB1C6820643279002F9566 /* SecondAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondAppUITests.swift; sourceTree = "<group>"; };
 		14BB1C6A20643279002F9566 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14BB1C7620645B61002F9566 /* poop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = poop.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				14BB1C4F20643279002F9566 /* Assets.xcassets */,
 				14BB1C5120643279002F9566 /* LaunchScreen.storyboard */,
 				14BB1C5420643279002F9566 /* Info.plist */,
+				14BB1C7620645B61002F9566 /* poop.jpg */,
 			);
 			path = SecondApp;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				14BB1C5320643279002F9566 /* LaunchScreen.storyboard in Resources */,
+				14BB1C7720645B61002F9566 /* poop.jpg in Resources */,
 				14BB1C5020643279002F9566 /* Assets.xcassets in Resources */,
 				14BB1C4E20643279002F9566 /* Main.storyboard in Resources */,
 			);
